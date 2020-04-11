@@ -1,5 +1,10 @@
 # AREP-AppDistribuidaSegura
 
+En este repositorio vamos a desarrollar una aplicación Web segura con los siguientes requerimientos:
+- Debe permitir un acceso seguro desde el browser a la aplicación. Es decir debe garantizar autenticación, autorización e integridad de usuarios.
+- Debe tener al menos dos computadores comunicacndose entre ellos y el acceso de servicios remotos debe garantizar: autenticación, autorización e integridad entre los servicios. Nadie puede invocar los servicios si no está autorizado.
+- Explique como escalaría su arquitectura de seguridad para incorporar nuevos servicios.
+
 ## Como Instalar y Correr el Codigo
 
 - Debe estar en el directorio donde quiere traer el repositorio
