@@ -21,8 +21,8 @@ En este repositorio vamos a desarrollar una aplicación Web segura con los sigui
 
 ![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/pagina.PNG)
 
-## prerrequisitos
-
+## Prerrequisitos
+ Se tiene que tener los siguiente programas instalados:
 ```
 - Maven 
 - Git
