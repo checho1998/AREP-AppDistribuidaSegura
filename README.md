@@ -21,6 +21,16 @@ En este repositorio vamos a desarrollar una aplicación Web segura con los sigui
 
 ![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/pagina.PNG)
 
+## Prueba
+
+Se Puede ver el login desarrollado.
+
+![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/login.PNG)
+
+Ademas se puede ver que verifica las credenciales para ver si estas son correctas o no.
+
+![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/credenciales.PNG)
+
 ## Prerrequisitos
  Se tiene que tener los siguiente programas instalados:
 ```
