@@ -12,7 +12,7 @@ En este repositorio vamos a desarrollar una aplicación Web segura con los sigui
 - Podemos comprobas que realizamos la configuracion de nuestro certificado exitosamente
 
 ![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura
-/blob/master/Imag/certificado.PNG)
+/blob/master/Imagenes/certificado.PNG)
 
 - El navegador desconoce este certificado ya que lo hemos hecho nosotros mismos y nos manda un aviso para prevenirnos de que puede tener algun riesgo.
 
