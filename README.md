@@ -11,15 +11,15 @@ En este repositorio vamos a desarrollar una aplicación Web segura con los sigui
 
 - Podemos comprobas que realizamos la configuracion de nuestro certificado exitosamente
 
-![Imagenes] (https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/certificado.PNG)
+![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/certificado.PNG)
 
 - El navegador desconoce este certificado ya que lo hemos hecho nosotros mismos y nos manda un aviso para prevenirnos de que puede tener algun riesgo.
 
-![Imagenes] (https://github.com/checho1998/AREP-AppDistribuidaSegura /blob/master/Imagenes/valido.PNG)
+![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/valido.PNG)
 
 - Debemos indicarle en las opciones avanzadas que si puede confiar en nuestro certificado para asi poder acceder a la pagina y no la mostrara
 
-![Imagenes] (https://github.com/checho1998/AREP-AppDistribuidaSegura /blob/master/Imagenes/pagina.PNG)
+![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/pagina.PNG)
 
 ## prerrequisitos
 
