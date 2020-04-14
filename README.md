@@ -17,7 +17,7 @@ En este repositorio vamos a desarrollar una aplicación Web segura con los sigui
 
 ![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/valido.PNG)
 
-- Debemos indicarle en las opciones avanzadas que si puede confiar en nuestro certificado para asi poder acceder a la pagina y no la mostrara
+- Debemos indicarle en las opciones avanzadas que si puede confiar en nuestro certificado para asi poder acceder a la pagina y asi la pueda mostrara
 
 ![Imagenes](https://github.com/checho1998/AREP-AppDistribuidaSegura/blob/master/Imagenes/pagina.PNG)
 
